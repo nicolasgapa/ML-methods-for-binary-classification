@@ -18,4 +18,4 @@ Comparison between different machine learning methods for binary classification
     
    b. Run the Neural_network.py file to test the DNN model.
 
-If you want to test your own dataset, place the .csv or .data file in the same directory as the codes, and update the dataset names in the python stripts.
+If you want to test your own dataset, place the .csv or .data file in the same directory as the codes, and update the dataset names in the python scripts.
