@@ -1,6 +1,5 @@
 # ML-methods-for-binary-classification
 Comparison between different machine learning methods for binary classification 
-
 1. Download all the files and place them in the same directory. 
 
 2a. Run the Binary_classification_methods.py file to test the following methods:
