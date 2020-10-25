@@ -1,4 +1,7 @@
 # ML-methods-for-binary-classification
+
+Author: Nicolas Gachancipa
+
 Comparison between different machine learning methods for binary classification 
 1. Download all the files and place them in the same directory. 
 
